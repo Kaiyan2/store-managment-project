@@ -22,4 +22,4 @@ https://github.com/Kaiyan2/store-managment-project/blob/66def2f73702b9ac825d4371
 
 ## Description
 
-Write a description of your project here. Include what your store you made, and why you chose this topic. In your description, include as many vocab words from our class to explain how you represented the item/service from your store. If you have user input, explain how the user will interact with your store such as which questions are prompted to the user, what response is your program expecting, and how that is use to output information for your store in the console.
+My store had 2 different types of crads, pokemon and Yu-gi-Oh. I chose this topic because it was something I like and was something I could visualize how to code before starting. I used instance variables for the different stats of the cards, like the name, type, # of stars, and the price. I was able to use the toString method to prevent my code from being redundant. And I finished my code by typing multi-line comments to explain what my code and method do.
